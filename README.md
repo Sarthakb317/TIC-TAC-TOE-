@@ -2,9 +2,6 @@
 
 A simple and interactive web-based **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **JavaScript**. The game supports player vs. computer gameplay with animated UI and real-time score tracking.
 
-##  Live Demo
-👉 [Play Now](https://sarthakb317.github.io/TIC-TAC-TOE-/)
-
 ##  Features
 
 -  Clean and retro-styled UI
