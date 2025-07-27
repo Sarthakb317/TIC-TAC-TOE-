@@ -1,6 +1,6 @@
 #  TIC-TAC-TOE
 
-A simple and interactive web-based **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **JavaScript**. The game supports player vs. computer gameplay with sound effects, animated UI, and real-time score tracking. Hosted on GitHub Pages.
+A simple and interactive web-based **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **JavaScript**. The game supports player vs. computer gameplay with animated UI and real-time score tracking.
 
 ##  Live Demo
 👉 [Play Now](https://sarthakb317.github.io/TIC-TAC-TOE-/)
@@ -12,8 +12,6 @@ A simple and interactive web-based **Tic-Tac-Toe** game built using **HTML**, **
 -  Score tracking for both Player and Computer
 -  Reset button to restart the match
 -  Turn-based gameplay logic
-
-##  Screenshots
 
 <img width="716" height="705" alt="TIC TAC TOE" src="https://github.com/user-attachments/assets/328ecd46-949a-424a-9fa4-1a2b6e3b34b1" />
 
